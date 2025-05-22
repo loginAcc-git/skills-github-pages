@@ -1,0 +1,14 @@
+.bg-bluebell {
+    background-color: #4169e1 !important;
+    /* royal blue / bluebell */
+}
+
+.btn-bluebell {
+    background-color: #4169e1;
+    color: #fff;
+}
+
+.btn-bluebell:hover {
+    background-color: #2747a6;
+    color: #fff;
+}
